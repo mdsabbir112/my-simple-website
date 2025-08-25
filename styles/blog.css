@@ -1,0 +1,8 @@
+.init{
+    background-color: tomato;
+    padding: 10px solid green ;
+    border: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 8px 8px 5px blueviolet;
+}
